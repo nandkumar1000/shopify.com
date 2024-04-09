@@ -25,4 +25,4 @@ From social media logos to UI elements sleek,
 It enhances web aesthetics with its versatile streak,
 A beloved resource, it's a designer's toolkit unique.
 
-http://127.0.0.1:5500/1shopify.html
+
