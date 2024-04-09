@@ -12,14 +12,11 @@ From my Github repository-powered Shopify website, greetings. By creating an acc
 4. Font Awesome.
 
 ## ABSTRACT:-
-->>>. Shopify.com's layout, which makes extensive use of tags, paragraphs, headers, spans, and other elements, was created using HTML. With CSS, a website may be built to be both elegant and adaptable. I use the least amount of CSS possible to guarantee appropriate formatting when writing. All of the images used in this project were acquired from various sources, including Google, Amazon, Flipkart, and others. Furthermore, the CDNJS (CONTENT DILIVERY NETWORK JS) provided the amazing typographic icons.
+->>>. Shopify.com's layout, which makes extensive use of tags, paragraphs, headers, spans, and other elements, was created using HTML. With CSS, a website may be built to be both elegant and adaptable. I use the least amount of CSS possible to guarantee appropriate formatting when writing. All of the images used in this project were acquired from various sources, including Google, Amazon, Flipkart, and others. Furthermore, the CDNJS (CONTENT DELIVERY NETWORK JS) provided amazing typographic icons.
 
 ## CDNJS:
-CDNJS, a reliable content delivery network,
-Hosts a vast array of popular libraries for the web,
-From jQuery to Bootstrap, it caters to developers' needs,
-With fast and efficient distribution of files at high speed,
-A cornerstone resource for modern web development indeed.
+dependable network for content delivery A vast array of popular web libraries, including Bootstrap and jQuery, are hosted by CDNJS to satisfy the needs of developers.
+Definitely an essential tool for modern web development, with files delivered efficiently and swiftly.
 
 ## FONT AWESOME.
 Font Awesome, the iconic font and CSS toolkit,
