@@ -1,5 +1,5 @@
 # shopify.com
-E-commerce website fornt-end
+E-commerce website front-end
 **
 From my Github repository-powered Shopify website, greetings. By creating an account or logging in, users may buy everyday necessities, sports equipment, apparel for all ages, and cosmetics at this online store. Hi, and thank you for visiting the Github source for my Shopify website. Customers may buy everyday necessities, cosmetics, sports equipment, and clothes for all ages from this online store by creating an account or logging in.
 
