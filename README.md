@@ -1,6 +1,8 @@
 # shopify.com
+
 E-commerce website front-end
-**
+
+
 👋 Greetings from my Github repository-powered Shopify website! 🛍️ By creating an account or logging in, users can purchase everyday necessities, sports equipment, apparel for all ages, and cosmetics at this online store. 🌟 Hi, and thank you for visiting the Github source for my Shopify website! 🛒 Customers can buy everyday necessities, cosmetics, sports equipment, and clothes for all ages from this online store by creating an account or logging in. 🎉
 *** Shopify.com is the domain name that I gave my website ("This is not a clone of official shopify.com"). This is the only name I employed to identify my website.
 
