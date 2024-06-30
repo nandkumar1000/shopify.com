@@ -13,6 +13,7 @@ E-commerce website front-end
 2. CSS. 🎨
 3. cdnjs. 🚀
 4. Font Awesome. 🖼️
+5. gsap.
 
 ## Abstract:
 🌟🎨 Shopify.com's layout, which makes extensive use of tags, paragraphs, headers, spans, and other elements, was created using HTML. 🛠️ With CSS, a website may be built to be both elegant and adaptable. 🎨 I use the least amount of CSS possible to guarantee appropriate formatting when writing. 🖼️ All of the images used in this project were acquired from various sources, including Google, Amazon, Flipkart, and others. 🌐 Furthermore, the CDNJS (CONTENT DELIVERY NETWORK JS) provided amazing typographic icons. 🌟
